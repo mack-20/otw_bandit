@@ -30,7 +30,7 @@ Before using this script, ensure you have the following:
 To use the script, run the following command in your terminal:
 
 ```bash
-./bandit.sh <level_you_want_to_connect_to>
+./otw_bandit <level_you_want_to_connect_to>
 ```
 
 ### Example
@@ -38,7 +38,7 @@ To use the script, run the following command in your terminal:
 To connect to level 10, you would execute:
 
 ```bash
-./bandit.sh 10
+./otw_bandit 10
 ```
 
 ## Error Handling
